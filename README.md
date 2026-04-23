@@ -1,7 +1,7 @@
 # 💫 About Me:
 As a dedicated IT student, I am passionate about leveraging technology to solve real-world problems. My academic background has equipped me with a solid foundation in programming. I have hands-on experience with a range of technologies including Python, Java, Javascript, SQL, C , C++, HTML and CSS.<br>Currently, I am focused on expanding my knowledge and skills in these areas.
 
-<img src="https://share.google/jJUWetlrRpjFR68pT"/>
+<img src"https://share.google/DKqDIGXkNszosWs0s"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumer-thakur-2486b62a7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Thakur sumer singh Barhiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumerthakur0306@gmail.com) 
