@@ -1,6 +1,25 @@
 # 💫 About Me:
-As a dedicated IT student, I am passionate about leveraging technology to solve real-world problems. My academic background has equipped me with a solid foundation in programming. I have hands-on experience with a range of technologies including Python, Java, Javascript, SQL, C , C++, HTML and CSS.<br>Currently, I am focused on expanding my knowledge and skills in these areas.
+I’m a B.Tech IT student (2028) focused on building systems that solve real-world problems — not just completing assignments.
 
+One of my key projects is a smart traffic management system built using Python and OpenCV. It detects vehicles, estimates speed, and identifies helmet violations in real time. This wasn’t just about coding — it was about designing something practical and efficient.
+
+I work across:
+• Python, C, C++, Java  
+• OpenCV and real-time video processing  
+• Flask for building simple web interfaces  
+• SQL for data handling  
+
+Beyond tools, I’m building strong fundamentals in:
+• Data Structures  
+• Operating Systems  
+• System-level thinking  
+
+Right now, I’m focused on improving how I design and optimize real-time systems.
+
+By 2028, my goal is clear:
+To graduate with not just knowledge, but a portfolio of systems that prove what I can build.
+
+If you’re working on projects in AI, backend systems, or automation — I’m open to connecting and collaborating.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumer-thakur-2486b62a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumerthakur0306@gmail.com) 
