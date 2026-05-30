@@ -1,25 +1,11 @@
 # 💫 About Me:
-I’m a B.Tech IT student (2028) focused on building systems that solve real-world problems — not just completing assignments.
+I’m a B.Tech Information Technology student with a strong interest in Artificial Intelligence and software development.
 
-One of my key projects is a smart traffic management system built using Python and OpenCV. It detects vehicles, estimates speed, and identifies helmet violations in real time. This wasn’t just about coding — it was about designing something practical and efficient.
+My core skills include Python, Java, Javascript, Data Structures, and SQL, and I enjoy applying these concepts to understand how efficient and scalable systems are built. I’m particularly interested in problem-solving and continuously improving my technical foundation.
 
-I work across:
-• Python, C, C++, Java  
-• OpenCV and real-time video processing  
-• Flask for building simple web interfaces  
-• SQL for data handling  
+As an AI enthusiast, I actively explore emerging technologies and stay updated with advancements in the field. I’m focused on strengthening both my programming skills and my understanding of intelligent systems.
 
-Beyond tools, I’m building strong fundamentals in:
-• Data Structures  
-• Operating Systems  
-• System-level thinking  
-
-Right now, I’m focused on improving how I design and optimize real-time systems.
-
-By 2028, my goal is clear:
-To graduate with not just knowledge, but a portfolio of systems that prove what I can build.
-
-If you’re working on projects in AI, backend systems, or automation — I’m open to connecting and collaborating.
+I’m currently looking for opportunities to learn, grow, and contribute in the areas of AI and software development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumer-thakur-2486b62a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumerthakur0306@gmail.com) 
